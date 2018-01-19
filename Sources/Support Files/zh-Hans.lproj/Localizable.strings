@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Solidot
+
+  Created by octopus on 07/01/2018.
+  Copyright © 2018 Joe Wang. All rights reserved.
+*/
+
+"solidot" = "奇客故事";
+"no_data_drag_to_refresh" = "暂无数据，下拉后刷新";
+"refreshing" = "正在刷新";
+"%@_dept" = "%@";
+"published_in_%@" = "发布于%@";
+"%@_ago" = "%@前";
+"prev_story_" = "上一篇 ";
+"next_story_" = "下一篇 ";
+"from_the_robot_dept" = "来自机器人";
+"loading" = "加载中...";
+"open_in_safari" = "在 Safari 中打开";

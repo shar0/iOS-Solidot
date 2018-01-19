@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Solidot
+
+  Created by octopus on 07/01/2018.
+  Copyright © 2018 Joe Wang. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Solidot";
+"CFBundleName" = "Solidot";

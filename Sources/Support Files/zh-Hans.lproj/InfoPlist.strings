@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Solidot
+
+  Created by octopus on 07/01/2018.
+  Copyright © 2018 Joe Wang. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "奇客故事";
+"CFBundleName" = "奇客故事";

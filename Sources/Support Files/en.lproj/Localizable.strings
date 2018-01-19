@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Solidot
+
+  Created by octopus on 07/01/2018.
+  Copyright © 2018 Joe Wang. All rights reserved.
+*/
+
+"solidot" = "Solidot";
+"no_data_drag_to_refresh" = "No Data, Drag to Refresh";
+"refreshing" = "Refreshing";
+"%@_dept" = "%@ dept.";
+"published_in_%@" = "Published in %@";
+"%@_ago" = "%@ ago";
+"prev_story_" = "Prev ";
+"next_story_" = "Next ";
+"from_the_robot_dept" = "from the robot";
+"loading" = "loading...";
+"open_in_safari" = "Open in Safari";
