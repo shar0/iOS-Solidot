@@ -17,6 +17,7 @@
 		597B895D2001FDD0009C4BD6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 597B895F2001FDD0009C4BD6 /* InfoPlist.strings */; };
 		597B89642002001F009C4BD6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 597B89662002001F009C4BD6 /* Localizable.strings */; };
 		597B896820020660009C4BD6 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 597B896A20020660009C4BD6 /* Launch Screen.storyboard */; };
+		59CFD56D2059305000151D1C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 59CFD56C2059305000151D1C /* README.md */; };
 		59D11AF91FFF54620004689C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59D11AF71FFF54620004689C /* Assets.xcassets */; };
 		59D11AFE1FFF656F0004689C /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D11AFD1FFF656F0004689C /* Service.swift */; };
 		59D11B011FFF90590004689C /* Story Cell View.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59D11B001FFF90590004689C /* Story Cell View.xib */; };
@@ -40,6 +41,7 @@
 		597B89672002002B009C4BD6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		597B896920020660009C4BD6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/Launch Screen.storyboard"; sourceTree = "<group>"; };
 		597B896C20020665009C4BD6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = "en.lproj/Launch Screen.strings"; sourceTree = "<group>"; };
+		59CFD56C2059305000151D1C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		59D11AF71FFF54620004689C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59D11AF81FFF54620004689C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		59D11AFB1FFF5BBD0004689C /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -68,6 +70,7 @@
 		5915F4091FFF5266000BEA0A = {
 			isa = PBXGroup;
 			children = (
+				59CFD56C2059305000151D1C /* README.md */,
 				59D11AFB1FFF5BBD0004689C /* Podfile */,
 				5915F4141FFF5266000BEA0A /* Sources */,
 				5915F4131FFF5266000BEA0A /* Products */,
@@ -211,6 +214,7 @@
 				597B89642002001F009C4BD6 /* Localizable.strings in Resources */,
 				59D9E1151FFFCA0B003EAEA4 /* Detail View.xib in Resources */,
 				59D11AF91FFF54620004689C /* Assets.xcassets in Resources */,
+				59CFD56D2059305000151D1C /* README.md in Resources */,
 				5947D3A52000D6A1006FD22E /* Detail Header View.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
